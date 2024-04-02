@@ -1,0 +1,19 @@
+# LangChain
+- an open-source framework designed to streamline the development of apps leveraging LLMs
+- acts as a toolbox that simplifies incorporating LLMs into various applications
+- Key Features:
+    - **Modular Components**:
+        - LangChain offers a collection of reusable building blocks, like functions & classes, representing common tasks encountered when working with LLMs
+        - easily combined to construct complex applications
+        - makes development faster & less error-prone
+    - **Focus on Reusability**:
+        - Promotes code reusability by providing standardized interfaces for various functionalities
+        - Allows developers to create easily integratable components
+    - **Data Augmented Generation**:
+        - Allows incorporation of external data sources into the LLM generation process
+        - Useful for Q&A and summarizers, where LLM can access & leverage relevant info from outside sources to enhance its responses
+    - **Agent Design**:
+        - Provides tools to design intelligent agents that interacts with environment & make decisions based on LLM outputs
+        - These agents can be programmed to take actions, receive observations from the environment, and use this information to iteratively perform tasks.
+    - **Memory Management**: 
+        - Incorporates mechanisms to remember information across LLM interactions
