@@ -1,0 +1,12 @@
+PyPDF
+PyPDF2
+einops
+chromadb
+langchain
+matplotlib
+accelerate
+# bitsandbytes
+transformers
+python-dotenv
+sentence-transformers
+llama-cpp-python -C cmake.args="-DLLAMA_BLAS=ON;-DLLAMA_BLAS_VENDOR=OpenBLAS"
